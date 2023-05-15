@@ -22,6 +22,6 @@ Are you having trouble keeping track of your medication schedule? Worry no more!
 
 ## Support
 
-If you have any questions or issues, feel free to contact us at [support@medicinereminder.com](mailto:sam7075938131@gmail.com). 
+If you have any questions or issues, feel free to contact us at [mailto:sam7075938131@gmail.com](mailto:sam7075938131@gmail.com). 
 
 Thank you 🙏
